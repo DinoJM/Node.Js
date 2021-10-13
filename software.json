@@ -1,0 +1,14 @@
+[
+ { 
+    "AppName": "GlowX",
+    "Version": "1.0.1.5",
+    "Resolved": "http://localhost:5000/assets/setup_GlowX_1_0_1_5.exe",
+    "Integrity": "md5-7fa10c2f65a2dac32dcad61c26b49da2"
+  },
+  {
+    "AppName": "Glow2",
+    "Version": "2.0.0.0",
+    "Resolved": "https://registry.in-win.com.tw/winapp/setup_Glow2_2_0_0_0.exe",
+    "Integrity": "md5-a5bed0217e14cf6af60c25735394ad01"
+  }
+]
