@@ -6,11 +6,11 @@
 
 Step1: Open terminal and select correct folder path
 
-![Folders Path](/assets/img/NodeJs_01.png)
+![Folders Path](NodeJs_01.png)
 
 Step2: key in "node Node.js" in command line to start
 
-![Json Content](/assets/img/NodeJs_01.png)
+![Json Content](NodeJs_02.png)
 
 |   APP        |   Glowx                                             | 
 | -------------|:----------------------------------------------------|          
@@ -21,4 +21,4 @@ Step2: key in "node Node.js" in command line to start
 
 ## Blocks of code
 
-![Blocks of code](/assets/img/NodeJs_03.png)
+![Blocks of code](/NodeJs_03.png)
